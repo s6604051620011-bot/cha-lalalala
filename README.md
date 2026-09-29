@@ -22,3 +22,4 @@ npm run dev
 ## หมายเหตุสำหรับนักพัฒนา
 
 ดูกฎการใช้ `params` ของ Dynamic Route (เป็น Promise ต้อง unwrap ด้วย `use()`) และโครงสร้างตารางฐานข้อมูลใน [CLAUDE.md](./CLAUDE.md)
+123
